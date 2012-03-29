@@ -1,0 +1,7 @@
+[user]
+	name = Balog
+	email = balogi@yandex.ru
+[alias]
+	co = checkout
+[gui]
+	recentrepo = D:/RailsProjects/first_app
